@@ -1,1 +1,0 @@
-# Skin_Cancer_Detection_using_Dermoscopic_images
